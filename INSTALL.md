@@ -7,7 +7,7 @@ Installation process work for Debian, Arch Linux and there derivatives.
 In order to run this program, you need the following packages to be
 installed.
 
-[Notice]{.underline}: *First commands are for **Debian and its
+**Notice**: *First commands are for **Debian and its
 derivatives** and the second ones are for **Arch Linux and its
 derivatives**.*
 
